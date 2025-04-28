@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Screenshot Sender",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting", "tabs"],
+  "action": {
+    "default_title": "Take Screenshot"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
