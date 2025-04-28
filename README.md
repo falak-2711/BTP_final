@@ -43,4 +43,7 @@ pip install -r requirements.txt
 ```bash
 python3 server2.py
 ```
-
+### 5. Presentation link
+```bash
+https://www.canva.com/design/DAGYoiKqT_8/Jm4gxDK_69KAkpvVw8j80A/edit?utm_content=DAGYoiKqT_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+```
