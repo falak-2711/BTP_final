@@ -2,11 +2,19 @@
   "manifest_version": 3,
   "name": "Screenshot Sender",
   "version": "1.0",
-  "permissions": ["activeTab", "scripting", "tabs"],
-  "action": {
-    "default_title": "Take Screenshot"
-  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": [
+    "http://localhost:3001/*",
+    "<all_urls>"
+  ],
   "background": {
     "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Take Screenshot"
   }
 }

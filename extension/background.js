@@ -1,21 +1,43 @@
 const tabResults = {}; // Stores results per tabId
 
-chrome.action.onClicked.addListener((tab) => {
-  const tabId = tab.id;
-  const url = tab.url;
+// Automatically take screenshot when page is fully loaded
+chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
+  if (changeInfo.status === "complete" && tab.active && tab.url.startsWith("http")) {
+    // Automatically capture screenshot once page is fully loaded
+    setTimeout(() => {
+      captureAndUpload(tabId, tab.url);
+    }, 2000);
+  }
 
-  if (!url) return;
-
-  chrome.tabs.captureVisibleTab(null, { format: "png" }, (dataUrl) => {
-    if (!dataUrl) return;
-
-    // Show loading/fetching indicator
-    chrome.action.setBadgeText({ text: "..." });
-    chrome.action.setBadgeBackgroundColor({ color: "#808080" });
-
-    uploadScreenshot(dataUrl, url, tabId);
-  });
+  if (changeInfo.url) {
+    // URL changed, reset any badge
+    chrome.action.setBadgeText({ text: "" });
+    delete tabResults[tabId];
+  }
 });
+
+// Also keep manual action (if still needed)
+chrome.action.onClicked.addListener((tab) => {
+  if (tab.url && tab.id !== undefined) {
+    captureAndUpload(tab.id, tab.url);
+  }
+});
+
+function captureAndUpload(tabId, url) {
+  chrome.tabs.get(tabId, (tab) => {
+    if (!tab) return;
+
+    chrome.tabs.captureVisibleTab(null, { format: "png" }, (dataUrl) => {
+      if (!dataUrl) return;
+
+      // Show loading indicator
+      chrome.action.setBadgeText({ text: "..." });
+      chrome.action.setBadgeBackgroundColor({ color: "#808080" });
+
+      uploadScreenshot(dataUrl, url, tabId);
+    });
+  });
+}
 
 function uploadScreenshot(dataUrl, url, tabId) {
   fetch("http://localhost:3001/upload", {
@@ -45,29 +67,17 @@ function uploadScreenshot(dataUrl, url, tabId) {
     });
 }
 
-// ✅ When tab is switched, check if we have a stored result
+// Restore badge on tab switch
 chrome.tabs.onActivated.addListener(({ tabId }) => {
   chrome.tabs.get(tabId, (tab) => {
     const currentUrl = tab.url;
-
     const result = tabResults[tabId];
 
     if (result && result.url === currentUrl) {
-      // Restore previous badge
       chrome.action.setBadgeText({ text: result.badgeText });
       chrome.action.setBadgeBackgroundColor({ color: result.badgeColor });
     } else {
-      // Unknown or new tab, reset
       chrome.action.setBadgeText({ text: "" });
     }
   });
-});
-
-// 🧠 Optional: also handle URL changes in the same tab
-chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
-  if (changeInfo.url) {
-    // Reset because URL changed
-    chrome.action.setBadgeText({ text: "" });
-    delete tabResults[tabId];
-  }
 });

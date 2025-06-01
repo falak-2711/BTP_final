@@ -8,6 +8,10 @@ import tldextract
 from googlesearch import search
 import time
 import os
+import csv
+import os
+from datetime import datetime
+
 class bcolors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
@@ -19,10 +23,12 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
-model = YOLO("best_model.pt")
+model = YOLO("best_model_2.pt")
+
+CSV_FILE = "results.csv"
 
 def extract_text_from_image(image_path):
-    
+    print("extract")
     image = cv2.imread(image_path)
     extract_list=[]
     if image is None:
@@ -53,6 +59,7 @@ def extract_text_from_image(image_path):
             return extract_list
         else:
             print("No detections found.")
+            return extract_list
 
 def search_domains(query, num_results=5):
 
@@ -92,15 +99,20 @@ def detect_phishing_from_screenshot(url, screenshot_path):
 
     extracted_texts = extract_text_from_image(screenshot_path)
     extracted_texts = list(set(text for text in extracted_texts if text != 'N/A'))
+    # print("Got it")
     print(f"{bcolors.OKBLUE}Possible brand list:{bcolors.ENDC}")
     for x in extracted_texts:
         print(f"{bcolors.OKBLUE}{x}{bcolors.ENDC}")
+    
+    is_genuine = False
+    if extracted_texts:
+        is_genuine = verify_brand_websites(extracted_texts, url)
 
-    if not extracted_texts:
-        return {"error": "No recognizable brand names found in the image"}
-
-    is_genuine = verify_brand_websites(extracted_texts, url)
     end_time = time.time()
+    original_domain = tldextract.extract(url).domain
+    verification_result = "Safe" if is_genuine else "Phish"
+    print('falak')
+    store_result_in_csv(url, original_domain, extracted_texts, verification_result, (end_time - start_time))
 
     return {
         "url": url,
@@ -108,3 +120,26 @@ def detect_phishing_from_screenshot(url, screenshot_path):
         "verification_result": is_genuine,
         "processing_time": f"{end_time - start_time:.2f} seconds"
     }
+
+
+
+
+def store_result_in_csv(url,original_domain, extracted_brands, verification_result, processing_time):
+    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+    # Ensure CSV file has headers if it doesn't exist
+    file_exists = os.path.isfile(CSV_FILE)
+    with open(CSV_FILE, mode='a', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        if not file_exists:
+            writer.writerow(["URL", "Original Domain","extracted_brands", "verification_result", "processing_time"])
+
+        writer.writerow([
+            url,
+            original_domain,
+            "; ".join(extracted_brands) if extracted_brands else "N/A",
+            verification_result,
+            processing_time
+        ])
+        
+        print("Saved To CSV")

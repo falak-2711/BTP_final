@@ -2,3 +2,5 @@
 node_modules/
 *.env
 my_env/
+venv/
+__pycache__/main.cpython-311.pyc

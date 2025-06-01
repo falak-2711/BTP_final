@@ -1,0 +1,500 @@
+URL,Original Domain,extracted_brands,verification_result,processing_time
+https://www.espn.in/,espn,Reddit Understand it,Phish,7.330144882202148
+https://astrotalk.com/,astrotalk,Astrotalk,Safe,2.7104909420013428
+https://www.astrosage.com/,astrosage,N/A,Phish,2.1858818531036377
+https://www.scoop.it/login,scoop,Scoop  itl Meltwater Offering,Safe,2.888228178024292
+https://www.uber.com/in/en/,uber,Uber,Safe,2.73771333694458
+https://www.fandango.com/,fandango,FANDANGC,Safe,3.0446484088897705
+https://sso.120ask.com/user/login?source=ask&forward=https://www.120ask.com/,120ask,HiK= WWW  IZOask_com,Phish,4.3206541538238525
+https://ad4game.com/,ad4game,4game,Phish,3.033003330230713
+https://www.bahn.de/,bahn,Privatreisen; DB,Safe,4.130974769592285
+https://bitbucket.org/,bitbucket,Bitbucket,Safe,2.9824483394622803
+https://ad4game.com/,ad4game,4game,Phish,2.716948986053467
+https://doodle.com/en/,doodle,Doodle,Safe,3.1442716121673584
+https://www.tripadvisor.co.uk/,tripadvisor,Tripadvisor; Where to?,Safe,5.587774753570557
+https://www.tripadvisor.co.uk/,tripadvisor,Tripadvisor; Where to?,Safe,5.732807636260986
+https://hh.ru/account/login?backurl=%2Fservices&hhtmFrom=services,hh,BowTh,Phish,3.0051746368408203
+https://www.drugs.com/account/login/,drugs,Drugscom; Drugscom Know more. Besure:,Safe,3.1269350051879883
+https://moz.com/login?_gl=1*8wakz9*_up*MQ..*_ga*MTA4NjA3Njk4LjE3Mjc0MTUyMjM.*_ga_QLCPR2NDVP*MTcyNzQxNTIxOC4xLjAuMTcyNzQxNTIxOC4wLjAuMA..*_ga_DS7K9Q3S5W*MTcyNzQxNTIyMy4xLjAuMTcyNzQxNTIyMy4wLjAuMA..,moz,MOZ,Safe,4.473925828933716
+https://moz.com/login?_gl=1*8wakz9*_up*MQ..*_ga*MTA4NjA3Njk4LjE3Mjc0MTUyMjM.*_ga_QLCPR2NDVP*MTcyNzQxNTIxOC4xLjAuMTcyNzQxNTIxOC4wLjAuMA..*_ga_DS7K9Q3S5W*MTcyNzQxNTIyMy4xLjAuMTcyNzQxNTIyMy4wLjAuMA..,moz,MOZ,Safe,4.876434803009033
+https://www.redfin.com/,redfin,REDFIN,Safe,2.9187207221984863
+https://www.gofundme.com/sign-in,gofundme,gofundme,Safe,2.958404064178467
+https://www.shutterstock.com/,shutterstock,shuttersteck,Safe,3.5161845684051514
+https://www.imdb.com/registration/signin/?ref=nv_generic_lgin&u=%2F,imdb,Sign in; IMDb,Safe,3.6197433471679688
+https://soundcloud.com/,soundcloud,Accept,Phish,2.854757785797119
+https://bab.la/,bab,N; babla; Continue,Safe,3.408027410507202
+https://www.tumblr.com/?redirect_to=%2F&source=explore_floating_sign_up,tumblr,friends,Phish,2.9822499752044678
+https://in.ign.com/,ign,IGN; 'IGN,Safe,2.9443414211273193
+https://www.gettyimages.in/sign-in?returnurl=%2F,gettyimages,"gettyimages""",Safe,3.247194766998291
+https://www.freepik.com/log-in?client_id=freepik&lang=en,freepik,FREEPIK,Safe,3.2306416034698486
+https://www.olx.in/,olx,Olx,Safe,5.337822675704956
+https://www.bing.com/search?q=badrinath&qs=n&form=QBRE&sp=-1&lq=0&pq=badrinath&sc=17-9&sk=&cvid=5220F8C01ACD4089AB6CCA3C356E42B8,bing,badrinath,Phish,3.54141902923584
+https://www.olx.in/,olx,Olx,Safe,4.8416619300842285
+https://badrinath-kedarnath.gov.in/,badrinath-kedarnath,N/A,Phish,3.6804795265197754
+https://www.gettyimages.in/sign-in?returnurl=%2F,gettyimages,N/A,Phish,3.3586537837982178
+https://www.waze.com/en-GB/live-map/,waze,N/A,Phish,2.5409340858459473
+https://www.gamespot.com/login-signup/,gamespot,N/A,Phish,2.2541089057922363
+https://online.maavaishnodevi.org/#/login,maavaishnodevi,Alert,Phish,2.991325855255127
+https://jksasb.nic.in/onlineservices/Auth_Pages/login.aspx,jksasb,N/A,Phish,2.0733120441436768
+https://badrinath-kedarnath.gov.in/Auth/LoginRegister/Login_Pilgrim.aspx,badrinath-kedarnath,N/A,Phish,2.190873622894287
+https://registrationandtouristcare.uk.gov.in/signin.php,uk,Uttarakhand (imryyy ` Heorker},Safe,2.7901012897491455
+"https://www.malabargoldanddiamonds.com/customer/account/login/referer/aHR0cHM6Ly93d3cubWFsYWJhcmdvbGRhbmRkaWFtb25kcy5jb20vY3VzdG9tZXIvYWNjb3VudC9pbmRleC8,/",malabargoldanddiamonds,MALABAR GOLD & DIAMONDS,Safe,3.20662784576416
+https://store.steampowered.com/,steampowered,STEAM,Safe,2.7834408283233643
+https://steamcommunity.com/login/home/?goto=,steamcommunity,STEAM; language,Safe,2.661487579345703
+https://fextralife.com/forums/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dlogin&sid=48858c4ad661c1d44dbb5e4e6d03e790,fextralife,N/A,Phish,2.1625521183013916
+https://www.ea.com/,ea,Electronic Arts,Safe,2.7294976711273193
+https://gamerant.com/,gamerant,GAMERANT,Safe,2.6664817333221436
+https://my.eneba.com/hi/login,eneba,{Aa; eneba,Safe,3.2829039096832275
+https://slack.com/signin#/signin,slack,slack,Safe,2.880922794342041
+https://login.okta.com/,okta,okta,Safe,2.6782023906707764
+https://admin.duosecurity.com/login?next=%2F,duosecurity,N/A,Phish,2.1173148155212402
+https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.com%2Fgateway%2Fapi%2Fstart%2Fauthredirect%3FatlOrigin%3DeyJpIjoiMzZiODg5YWMwMzhkNDkzYTllODgwMTAzNmZmMmVmYjgiLCJwIjoid2FjLWdsb2JhbGRyb3Bkb3duIn0,atlassian,ATLASSIAN,Safe,2.687044143676758
+https://www.16personalities.com/,16personalities,16 Personalities,Safe,3.078580379486084
+https://jooble.org/auth/login/email?backUrl=%2F&source=1,jooble,jooble,Safe,2.653618097305298
+https://www.dayforcehcm.com/mydayforce/login.aspx,dayforcehcm,dayforce; Company; Login,Safe,2.809962272644043
+https://login.gupy.io/candidates/signin?int_ref=menu-institucional,gupy,English,Phish,2.743180274963379
+https://premium.appcast.io/cc/user-sessions/login,appcast,"#appcast""",Safe,4.811408758163452
+https://premium.appcast.io/cc/user-sessions/login,appcast,"#appcast""",Safe,4.026878118515015
+https://in.talent.com/,talent,N/A,Phish,2.0864670276641846
+https://app.bamboohr.com/login/,bamboohr,"bamboOHR""",Safe,2.744290828704834
+https://www.smartrecruiters.com/account/sign-in,smartrecruiters,SmartRecruiters,Safe,2.7650747299194336
+https://id.workable.com/oidc/i/gkiBI-T1v3TE04kZm5_45,workable,workable,Safe,2.7956323623657227
+https://app.gusto.com/login,gusto,justo,Phish,2.7646644115448
+https://app.keka.com/Account/Login?ReturnUrl=%2F,keka,N/A,Phish,2.1690664291381836
+https://login.alchemer.com/,alchemer,Continue,Phish,2.6218760013580322
+https://login.cint.com/#/,cint,Cint,Safe,2.606239080429077
+https://app.lifepointspanel.com/en-US/login,lifepointspanel,,Phish,3.948601722717285
+https://www.questionpro.com/a/showLogin.do,questionpro,QuestionPro,Safe,2.7247350215911865
+https://app.respondent.io/login,respondent,RESPONDENT,Safe,3.25435471534729
+https://measure.dynata.com/,dynata,Login,Phish,2.4817299842834473
+https://www.businesswire.com/sign-in,businesswire,Microsoft Edge,Phish,4.057003736495972
+https://www.businesswire.com/sign-in,businesswire,Microsoft Edge,Phish,4.440725326538086
+https://hdvid.tv/login.html,hdvid,N/A,Phish,1.9891226291656494
+https://www.last.fm/login,last,last fm,Safe,2.773031711578369
+https://login.discogs.com/u/login?state=hKFo2SBGdGh5TldLSTdPd0MzTlo5LXZsMTNQZDVxTzhMTkxseaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIF9yRGpaeW9qaUZKTUtEU0ZtRlJ5OFdCVTlMQjk1dnM0o2NpZNkgMDg2SDEyQklDVzFiZnRlMVUwQ056NmV4UVFtSk56SGg,discogs,Continue; Discesgs,Phish,3.254944086074829
+https://bandcamp.com/login,bandcamp,bandcamp,Safe,2.6309218406677246
+https://account.deezer.com/en-us/login/,deezer,DeezER,Safe,4.321882963180542
+https://account.deezer.com/en-us/login/,deezer,DeezER,Safe,4.252875089645386
+https://rateyourmusic.com/account/login,rateyourmusic,N/A,Phish,2.063094139099121
+https://www.zillow.com/,zillow,Zillow,Safe,2.740143060684204
+https://accounts.craigslist.org/login?rp=%2Flogin%2Fhome&rt=L,craigslist,N/A,Phish,1.9931221008300781
+https://www.realtor.com/,realtor,N/A,Phish,2.0671560764312744
+https://www.rightmove.co.uk/,rightmove,rightmove (; Reject all,Safe,2.6752030849456787
+https://id.realestate.com.au/u/login/identifier?state=hKFo2SBNZEFGcUNJVVdyTmRKWHVQbkdLdTU2WG52SEJ4eS1KTaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHc5YUR4ZGJReDczc3dJQ3A2U3Uzb1VxYjJjd0c3QUV4o2NpZLoyZmIwNmRxYWI5NWhjaTQ2ZGdsZHBoMDM4Mg,realestate,N/A,Phish,2.0314230918884277
+https://www.homes.com/,homes,N/A,Phish,2.118408203125
+https://www.apartments.com/,apartments,N/A,Phish,2.1145730018615723
+https://www.immobiliare.it/,immobiliare,fmmobiliare it il N:1 per vendere e comprare; fimmobiliare.it,Safe,6.110601902008057
+https://www.vrbo.com/login?enable_login=true&uurl=e3id%3Dredr%26rurl%3D%2F,vrbo,Continue; T bo,Phish,3.141955614089966
+https://www.zoopla.co.uk/signin/?return_url=%2F,zoopla,WWWzoopla.co.uk,Safe,2.762538194656372
+https://www.trulia.com/,trulia,trulia,Safe,2.6026997566223145
+https://www.doordash.com/,doordash,N/A,Phish,2.024092435836792
+https://www.opentable.com/,opentable,"OpenTable""",Safe,2.6284539699554443
+https://www.pizzahut.co.in/account/otp,pizzahut,PizzaHut,Safe,2.567807912826538
+https://www.grubhub.com/login,grubhub,GRUBHUB,Safe,3.670957088470459
+https://www.tacobell.com/,tacobell,N/A,Phish,2.1150550842285156
+https://www.zomato.com/,zomato,N/A,Phish,2.28391432762146
+https://www.chipotle.com/,chipotle,DuLSUU CHIPOTLE HONEY CHICKEN,Safe,3.8883748054504395
+https://glovoapp.com/,glovoapp,N/A,Phish,2.085083246231079
+https://www.goal.com/en-in/login,goal,Login; BACK,Phish,4.061122417449951
+https://www.olympics.com/en/sign-in?origin=https://olympics.com/&entry_point_type=home_sign_in&entry_point_tag=BAU,olympics,BENEFIT WITH A FREE OLYMPIC MEMBERSHI,Safe,3.770735740661621
+https://www.chess.com/register?returnUrl=https://www.chess.com/,chess,Chesscom,Safe,6.600383043289185
+https://www.cricbuzz.com/premium-subscription/user/login,cricbuzz,cricbuzz,Safe,2.781034469604492
+https://www.mlb.com/login?redirectUri=/,mlb,N/A,Phish,2.176069974899292
+https://www.sportskeeda.com/login?after-login=https://www.sportskeeda.com/,sportskeeda,N/A,Phish,2.1190381050109863
+https://www.samsung.com/in/web/login?redirect_uri=https%3A%2F%2Fwww.samsung.com%2Fin%2F#login-page,samsung,Login; SAMSUNG,Safe,3.5584683418273926
+https://signin.att.com/dynamic/iamLRR/LrrController?IAM_OP=error&errorCode=902.2&appName=m14186,att,N/A,Phish,2.0500926971435547
+https://mblogin.verizonwireless.com/account/business/ilogin?_gl=1%2a1qqhsh3%2a_ga%2aNjI1NDMyMjY0LjE3MjgxMjk5NjQ.%2a_ga_12R1DX1LX7%2aMTcyODEyOTk2NC4xLjEuMTcyODEyOTk3NC41MC4wLjA.,verizonwireless,verizon business,Safe,2.9868664741516113
+https://www.lg.com/in/login/,lg,N/A,Phish,2.026585817337036
+https://www.spectrum.net/,spectrum,Spectrum,Safe,3.036450147628784
+https://www.jio.com/selfcare/login/,jio,Welcome to Jio,Safe,3.002288818359375
+https://www.irctc.co.in/nget/train-search,irctc,BOOK TICKET; DISHAzo; IRCTC,Safe,3.510584831237793
+https://www.royalmail.com/login?destination=/,royalmail,Register,Phish,2.790724277496338
+https://user.17track.net/en,17track,Login; Welcome backl; 17TRACK,Safe,4.983214378356934
+https://www.thetrainline.com/en-us,thetrainline,trainline,Safe,2.8717195987701416
+https://bluedart.com/,bluedart,BLUE DART AFFILIATE PROGRAM (BDAP); 3LUE DART,Safe,3.226135492324829
+https://www.americanexpress.com/en-in/account/login?inav=in_utility_login,americanexpress,N/A,Phish,2.351477861404419
+https://www.americanexpress.com/en-in/account/login?inav=in_utility_login,americanexpress,N/A,Phish,2.0080759525299072
+https://www.wetteronline.de/login,wetteronline,wetteronline,Safe,2.7618846893310547
+"https://www.flightradar24.com/28.65,77.24/6",flightradar24,flightradar24 LE AIR TRAFFIC,Safe,3.845815658569336
+https://www.ryanair.com/ie/en,ryanair,RYANAIR,Safe,3.544268846511841
+https://in.trip.com/?locale=en-in,trip,Trip com,Safe,3.5091772079467773
+https://www.expedia.com/login?ckoflag=0&uurl=e3id%3Dredr%26rurl%3D%2F,expedia,Expedia,Safe,2.7989113330841064
+https://login.flightaware.com/signup,flightaware,N/A,Phish,2.138176679611206
+https://www.skyscanner.co.in/?previousCultureSource=GEO_LOCATION&redirectedFrom=www.skyscanner.net,skyscanner,N/A,Phish,3.861672878265381
+https://www.skyscanner.co.in/?previousCultureSource=GEO_LOCATION&redirectedFrom=www.skyscanner.net,skyscanner,N/A,Phish,3.522676944732666
+https://www.skyscanner.co.in/?previousCultureSource=GEO_LOCATION&redirectedFrom=www.skyscanner.net,skyscanner,N/A,Phish,2.0621018409729004
+https://www.marriott.com/default.mi,marriott,MARRIOTT BONVGY,Safe,3.443627119064331
+https://www.united.com/en/us,united,N/A,Phish,2.0260369777679443
+https://accounts.motorsportnetwork.com/login?client_id=81&response_type=code&locale=en_US,motorsportnetwork,N/A,Phish,2.0397140979766846
+https://accounts.motorsportnetwork.com/login?client_id=81&response_type=code&locale=en_US,motorsportnetwork,N/A,Phish,2.118116855621338
+https://www.marktplaats.nl/identity/v2/login?target=https%3A%2F%2Fwww.marktplaats.nl%2F,marktplaats,Marktplaats; Inloggen,Safe,3.190519332885742
+https://www.carfax.com/?iss=https%3A%2F%2Fauth.carfax.com%2F,carfax,N/A,Phish,2.037216901779175
+https://www.carfax.com/?iss=https%3A%2F%2Fauth.carfax.com%2F,carfax,N/A,Phish,2.000095844268799
+https://account.formula1.com/#/en/login?redirect=https%3A%2F%2Fwww.formula1.com%2F&lead_source=web_f1core,formula1,SIGN IN,Phish,6.471338272094727
+https://www.cargurus.com/Cars/authentication/renderRegisterLoginForm.action?redirectUrl=%2FCars%2Fauthentication%2FrenderRegisterLoginForm.action%3FredirectUrl%3D%2F,cargurus,Cargurus,Safe,2.772732973098755
+https://sso.justanswer.com/?isPpc=1,justanswer,answer just _,Safe,3.0153613090515137
+https://www.autotrader.co.uk/?refresh=true,autotrader,ZAutotrader,Safe,2.8802835941314697
+https://www.autozone.com/signin,autozone,N/A,Phish,2.604583263397217
+https://www.cars.com/,cars,cars com,Safe,3.0242531299591064
+https://www.autotrader.com/,autotrader,N/A,Phish,2.0725655555725098
+https://auth.max.com/login,max,max,Safe,3.1926381587982178
+https://socialblade.com/login,socialblade,-Iulll SOCIAL BLADE,Phish,3.2136549949645996
+https://socialblade.com/login,socialblade,-Iulll SOCIAL BLADE,Phish,3.791836738586426
+https://www.easyjet.com/en/,easyjet,COOKIES,Phish,2.6484107971191406
+https://www.easyjet.com/en/,easyjet,SUNSHINE AWAITS,Phish,3.0443904399871826
+https://www.delta.com/apac/en,delta,N/A,Phish,2.228095293045044
+https://www.delta.com/apac/en,delta,N/A,Phish,2.1000704765319824
+https://www.delta.com/apac/en,delta,EXPERIENCE THE NEW DELTA PREMIUM SELECT,Safe,3.2565126419067383
+https://www.southwest.com/,southwest,Flights; Southwest,Safe,3.812641143798828
+https://www.makemytrip.com/,makemytrip,N/A,Phish,2.267164945602417
+https://www.makemytrip.com/,makemytrip,VIEW A,Phish,2.840841054916382
+https://www.makemytrip.com/,makemytrip,VIEW A,Phish,3.1588294506073
+"https://www.windy.com/login?28.633,77.220,5",windy,N/A,Phish,2.434055805206299
+"https://www.windy.com/login?28.633,77.220,5,p:favs",windy,N/A,Phish,4.546171426773071
+"https://www.windy.com/login?28.633,77.220,5",windy,N/A,Phish,4.296605348587036
+"https://www.windy.com/?28.633,77.220,5",windy,AN Windycoukesu,Safe,3.5413100719451904
+"https://www.windy.com/?28.652,77.212,5",windy,"Fiolnna 20"" Windycoza",Safe,3.1889140605926514
+https://www.superdrug.com/,superdrug,N/A,Phish,2.1670961380004883
+https://users.premierleague.com/?redirect_uri=https://www.premierleague.com/&app=pl-web,premierleague,N/A,Phish,2.092071056365967
+https://users.premierleague.com/?redirect_uri=https://www.premierleague.com/&app=pl-web,premierleague,Sign In; Register,Phish,4.066211938858032
+https://1337x.to/login,1337x,mailcom,Phish,4.035640716552734
+https://www.mail.com/,mail,mailcom,Safe,3.706210136413574
+https://www.mail.com/,mail,mailcom,Safe,2.9882800579071045
+https://www.nikkansports.com/,nikkansports,ANZI',Phish,3.158207893371582
+https://slimspots.com/login,slimspots,slimspts lim 4 n d easy ublishing,Phish,3.1027352809906006
+https://slimspots.com/login,slimspots,slimspts lim 4 n d easy ublishing,Phish,2.8490734100341797
+https://depositphotos.com/,depositphotos,N/A,Phish,2.0531275272369385
+https://depositphotos.com/,depositphotos,N/A,Phish,2.0790903568267822
+https://accounts.interpark.com/login/form,interpark,N/A,Phish,2.036231279373169
+https://www.adslgate.com/login.php,adslgate,N/A,Phish,2.0062804222106934
+https://www.todayhumor.co.kr/,todayhumor,N/A,Phish,2.063131093978882
+https://www.rakuten.com/,rakuten,Rakuten,Safe,3.869813919067383
+https://my.gumtree.com/login,gumtree,N/A,Phish,1.9801230430603027
+https://app.iconosquare.com/signin,iconosquare,Welcome back to lconosquare,Safe,3.060962200164795
+https://www.sulekha.com/user/signin?removesocial=1&redirect=https://www.sulekha.com/#mobileno,sulekha,Sulekha,Safe,3.1151952743530273
+https://client.schwab.com/Areas/Access/Login,schwab,charles SCHWAB,Safe,2.974937915802002
+https://www.discover.com/,discover,DISCOVER,Safe,3.023404836654663
+https://nextdoor.com/,nextdoor,Continue; extdoor,Safe,3.632509708404541
+https://eztvx.to/login/,eztvx,N/A,Phish,2.08739972114563
+https://authentication.liveperson.net/accountSelection.html?source=login_html,liveperson,N/A,Phish,2.0410540103912354
+https://imgur.com/,imgur,imgur,Safe,2.837902784347534
+https://www.zara.com/in/en/logon,zara,INA,Phish,3.2640504837036133
+https://www.amazon.de/,amazon,amazon _ de,Safe,2.956055164337158
+https://panamahatshop.com/en/,panamahatshop,THE MONTECRISTI FEDORA CLASSIC; PanamaHat genuine hand woven ecuador Shop,Safe,4.126521110534668
+https://classicregister.com/,classicregister,N/A,Phish,2.046882390975952
+https://www.bestmassage.com/,bestmassage,est Aassage.com; est_ com nassage s,Phish,6.070841073989868
+https://savagerecruitmentacademy.wildapricot.org/Sys/Login,wildapricot,THE SAVAGE RECRUTMENT ACADEMY,Safe,2.983121156692505
+https://centuryfuelproducts.com/,centuryfuelproducts,N/A,Phish,2.0641367435455322
+https://www.toyconnection.com/,toyconnection,Toy Gonnection,Safe,3.1720287799835205
+https://www.wponlinesupport.com/my-account/,wponlinesupport,onlinesupport Leave it all on uS,Phish,2.9114127159118652
+https://www.outbrain.com/,outbrain,utbrain,Safe,3.546171188354492
+https://in.jbl.com/,jbl,LEVEL UP YOUR SOUND GAME,Safe,4.845654726028442
+https://www.gibson.com/en-US/,gibson,Gbsu; Cibsur,Phish,3.3998358249664307
+https://www.similarweb.com/top-websites/finance/,similarweb,Contact sales; similarweb,Safe,3.624060869216919
+https://www.business-standard.com/login?redirect_uri=/,business-standard,Business Standard,Safe,3.00996994972229
+https://www.mitid.dk/en-gb/,mitid,Mit,Safe,2.702972888946533
+https://error.alibaba.com/error404.htm,alibaba,Alibaba.com,Safe,3.493295192718506
+https://wordpress.com/,wordpress,WordPress.com,Safe,2.7115986347198486
+https://turbobit.net/login.turbobit,turbobit unlimited & fast cloud storage; 404,Safe,3.026165008544922
+https://www.canva.com/,canva,Canva,Safe,2.8106496334075928
+https://www.onelink.to/,onelink,Onelinkto,Safe,2.8535573482513428
+"https://badrinath-kedarnath.gov.in/,badrinath-kedarnath,N/A,Phish,3.6804795265197754",badrinath-kedarnath,N/A,Phish,2.1139183044433594
+https://badrinath-kedarnath.gov.in/,badrinath-kedarnath,N/A,Phish,2.0585954189300537
+https://wordpress.com/,wordpress,WordPress com,Safe,4.256638288497925
+https://imgur.com/,imgur,imgur,Safe,3.237229585647583
+https://www.zara.com/in/en/logon,zara,[NA,Phish,2.719613552093506
+https://panamahatshop.com/en/,panamahatshop,Panamatatc genuine hand woven ecuador Shop,Safe,3.133603096008301
+https://classicregister.com/,classicregister,tufin,Phish,2.7555766105651855
+https://www.bestmassage.com/,bestmassage,estMassagecom,Phish,5.029202938079834
+https://savagerecruitmentacademy.wildapricot.org/Sys/Login,wildapricot,THE SAVAGE RECRUTMENT ACADEMY,Safe,3.1507089138031006
+https://centuryfuelproducts.com/,centuryfuelproducts,N/A,Phish,2.0970687866210938
+https://www.toyconnection.com/,toyconnection,Toy Gonnection,Safe,2.9486491680145264
+https://www.wponlinesupport.com/my-account/,wponlinesupport,N/A,Phish,2.083129405975342
+https://www.alibaba.com/,alibaba,Deliver to: IN,Phish,2.974583148956299
+https://www.outbrain.com/,outbrain,utbrain,Safe,3.0266783237457275
+https://in.jbl.com/,jbl,N/A,Phish,2.185059070587158
+https://www.gibson.com/en-US/,gibson,UNITED STATES,Phish,3.1225974559783936
+https://www.similarweb.com/top-websites/finance/,similarweb,similarweb,Safe,2.618154525756836
+https://www.business-standard.com/login?redirect_uri=/,business-standard,Business Standard,Safe,2.904642105102539
+https://www.mitid.dk/en-gb/,mitid,Mit,Phish,2.884664297103882
+https://www.sephora.com/,sephora,SEPHOR A,Safe,3.473569869995117
+https://www.veepee.fr/gr/home/default,veepee,Veepee,Safe,2.7131893634796143
+https://www.otto.de/customer-identity/login?entryPoint=loginArea,otto,OTTo,Safe,2.817079544067383
+https://forever21.abfrl.in/,abfrl,N/A,Phish,1.9865171909332275
+https://www.indiamart.com/,indiamart,indiamart,Safe,4.494955062866211
+https://www.gumtree.com.au/t-login-form.html,gumtree,N/A,Phish,2.0048322677612305
+https://www.indiegogo.com/,indiegogo,INDIEGOGO,Phish,2.9006173610687256
+https://accounts.shutterfly.com/,shutterfly,Shutterfly,Safe,3.9562339782714844
+https://www.argos.co.uk/account/login,argos,Argos,Safe,3.2705657482147217
+https://www.amazon.de/,amazon,amazonde,Safe,3.122124195098877
+
+https://www.creditkarma.com/auth/logon,creditkarma,creditkarma,Safe,4.324694871902466
+https://www.myvouchercodes.co.uk/member/login,myvouchercodes,MyVoucherCodes,Safe,2.821638822555542
+https://accounts.spotify.com/en-GB/login?continue=https%3A%2F%2Fopen.spotify.com%2F,spotify,Login to Spotify; Loginto Spotify,Safe,3.3083443641662598
+https://meta.stackexchange.com/users/login?returnurl=https%3a%2f%2fstackexchange.com%2fusers%2flogin-or-signup%2fdelegated%3freturnurl%3dhttps%253a%252f%252fstackexchange.com%253f_%253d2125890409&cdl=1,stackexchange,N/A,Phish,2.236680507659912
+https://www2.hm.com/en_in/index.html,hm,#M,Phish,2.7188050746917725
+https://shop.app/,shop,shop,Safe,5.57321834564209
+https://www.uniqlo.com/in/en/,uniqlo,UnI J0 QLO ,Safe,3.3743934631347656
+https://poshmark.com/login?pmrd%5Burl%5D=%2F,poshmark,POSHMARK,Safe,2.6536099910736084
+https://www.ajio.com/b/wills-lifestyle#:~:text=BUY%20WILLS%20LIFESTYLE%20BRAND%20ONLINE.%20You%E2%80%99ll%20find%20the%20latest%20international,ajio,AJIO,Safe,3.1874847412109375
+https://www.hushpuppies.com/sign-in,hushpuppies,Hush Puppies,Safe,3.9888267517089844
+https://www.bankofamerica.com/,bankofamerica,N/A,Phish,2.0336294174194336
+https://retail.onlinesbi.sbi/,onlinesbi,SBI 0NLINE; SBI,Safe,3.0127618312835693
+https://www.axisbank.com/,axisbank,AXIS BANK,Safe,3.8215951919555664
+https://www.indianbank.in/,indianbank,N/A,Phish,2.2186224460601807
+https://www.federalbank.co.in/,federalbank,N/A,Phish,2.2650954723358154
+https://www.paypal.com/in/home,paypal,"Tne Paypal App Pay eaSy; fast, and secure:",Safe,4.302993059158325
+https://www.chase.com/,chase,N/A,Phish,2.045074701309204
+https://www.capitalone.com/,capitalone,FDIC,Phish,2.8164777755737305
+https://www.citi.com/,citi,N/A,Phish,2.0896828174591064
+https://www.discover.com/,discover,DISCOVER,Safe,3.071913242340088
+https://www.creditkarma.com/,creditkarma,creditkarma,Safe,2.667294979095459
+https://www.scotiabank.com/global/en/global-site.html,scotiabank,Scotiabank,Safe,2.7446115016937256
+https://www.axisbank.com/explore-products,axisbank,AXIS BANK,Safe,2.798664093017578
+https://askubuntu.com/users/login?ssrc=head&returnurl=https%3a%2f%2faskubuntu.com%2f,askubuntu,StackExchange,Phish,2.8121581077575684
+https://www.biblegateway.com/,biblegateway,BibleGateway,Safe,5.1070473194122314
+https://www.dict.cc/,dict,dict_CC English-German Dictionary,Safe,3.0766191482543945
+https://www.codeproject.com/,codeproject,CODE PROJECT For those who code,Safe,6.348825693130493
+https://www.instructure.com/en-au/canvas/login,instructure,INSTRUCTURE,Safe,3.056204319000244
+https://byjus.com/,byjus,N/A,Phish,2.0014777183532715
+https://www.udemy.com/join/passwordless-auth/?locale=en_US&next=https%3A%2F%2Fwww.udemy.com%2F&response_type=html,udemy,udemy,Safe,2.9395956993103027
+https://www.toppr.com/ask/,toppr,N/A,Phish,1.9701638221740723
+https://en.duolingo.com/,duolingo,duolingo,Safe,2.948065757751465
+https://www.grammarly.com/signin?utm_source=google&utm_medium=cpc&utm_campaign=19841729896&utm_content=652327863983&utm_term=grammar+check,grammarly,N/A,Phish,2.0480799674987793
+https://quizlet.com/gb,quizlet,Quizlet,Safe,6.581052541732788
+https://www.studocu.com/en-us/login#:~:text=Login%20to%20your%20Studocu%20account%20to%20get,studocu,N/A,Phish,2.065420150756836
+https://www.coursera.org/,coursera,coursera,Safe,2.799821615219116
+https://www.pw.live/,pw,N/A,Phish,2.127868413925171
+https://quizizz.com/login?source=top_nav_login_button&ctaSource=top_nav_login_button&ref=header_tab&webflow_referrer=webflow&lng=en&fromPage=/,quizizz,QUizizz,Safe,3.382742166519165
+https://www.shiksha.com/,shiksha,shiksha,Safe,2.9760076999664307
+https://help.powerschool.com/t5/user/userloginpage?dest_url=https%3A%2F%2Fhelp.powerschool.com%2F,powerschool,N/A,Phish,2.0101025104522705
+https://my.cherrycreekschools.org/idp/AuthnEngine#/authn,cherrycreekschools,N/A,Phish,1.9711198806762695
+https://www.khanacademy.org/login,khanacademy,Khan Academy,Safe,3.8295042514801025
+https://kinvo.kinvolved.com/users/sign_in,kinvolved,PowerSchool,Phish,3.3823375701904297
+https://mocktest.jagranjosh.com/login,jagranjosh,N/A,Phish,1.969780445098877
+https://brainly.in/login?entry=2&source=unlogged+homepage+header+button,brainly,BRAINLY,Safe,10.43215537071228
+https://www.signupgenius.com/register,signupgenius,'SignUpGenius,Safe,2.8139045238494873
+https://wordwall.net/account/login,wordwall,J Wordwall,Safe,2.656331777572632
+https://www.qconcursos.com/,qconcursos,Qconcursos,Safe,2.9223556518554688
+https://secure.smore.com/login,smore,N/A,Phish,1.958587646484375
+https://login.k12.com/,k12,K12 stride Company,Safe,4.330320119857788
+https://login.k12.com/,k12,K12 stride Company,Safe,4.639848470687866
+https://www.vedantu.com/,vedantu,Vedantu,Safe,3.4316866397857666
+https://schools.compass.education/,compass,N/A,Phish,2.05961275100708
+https://www.grancursosonline.com.br/identificacao#:~:text=E-mail.%20Celular.%20Senha%20cadastro.?msockid=0750749aa55b6cb219586076a4b96d3f,grancursosonline,GRAN,Phish,2.7800064086914062
+https://www.infinitecampus.com/login,infinitecampus,Infinite Campus,Safe,4.926680088043213
+https://student.classdojo.com/#/login,classdojo,N/A,Phish,2.0960562229156494
+https://auth.udacity.com/sign-in?next=,udacity,( UDACITY Part of Accenture,Safe,2.823261260986328
+https://www.instructables.com/account/login/?nxtPg=,instructables,AUTODESK Instructables,Safe,2.8513472080230713
+https://auth.wikimedia.org/commonswiki/wiki/Special:UserLogin?useformat=desktop&usesul3=1&returnto=Main_Page&centralauthLoginToken=eef3c6d8304553aff8d4233bad2485a5,wikimedia,WIKIMEDIA COMMONS,Safe,3.2161309719085693
+https://www.bartleby.com/login?referrer=%2F%3FisBot%3DNewRelicSynthetics,bartleby,"bartleby""",Safe,3.0870134830474854
+https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&componentEventParams=componentType%3Didentityauthentication%26componentId%3Dguardian_signin_header,theguardian,Sign in; GuHaian,Phish,3.493983268737793
+https://www.medicalnewstoday.com/,medicalnewstoday,N/A,Phish,2.136122941970825
+https://nextdoor.com/,nextdoor,nextdoor,Safe,4.042548656463623
+https://www.slideshare.net/login?from_source=%2F,slideshare,N/A,Phish,2.0102176666259766
+https://www.geeksforgeeks.org/,geeksforgeeks,N/A,Phish,1.983215570449829
+https://www.vocabulary.com/login/,vocabulary,N/A,Phish,1.9822478294372559
+https://www.goodreads.com/user/sign_in,goodreads,N/A,Phish,1.9906067848205566
+https://www.redbubble.com/auth/login?next_action=%2F,redbubble,REDBUBBLE,Safe,2.6862759590148926
+https://secure.thefreedictionary.com/Login.aspx?returnTo=https%3a%2f%2fwww.thefreedictionary.com,thefreedictionary,N/A,Phish,2.0830607414245605
+https://sso.justanswer.com/,justanswer,answer just _,Phish,3.0387141704559326
+https://cscservices.mahaonline.gov.in/Dashboard/Login.aspx#:~:text=Enter%20your%20Login%20id%20below%20;%20We'll%20email%20you%20a,mahaonline,a9,Phish,3.3345065116882324
+https://wyspa.app/login,wyspa,N/A,Phish,3.6512465476989746
+https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2f,stackoverflow,stackoverflow,Safe,3.4320921897888184
+https://wordpress.com/log-in/,wordpress,N/A,Phish,2.218615770339966
+https://loginrouter.progressive.com/access/loginKickoff?idp=progressive&clientName=Online%20Servicing%20Web%20Portal&cntgrp=A&destinationApp=accountHome&authType=full,progressive,N/A,Phish,1.9890797138214111
+https://ugccare.unipune.ac.in/Apps1/,unipune,UGC-Cell,Phish,2.7172117233276367
+https://www.semrush.com/login/?src=header&redirect_to=%2Fwebsite%2Fspace.com%2Foverview%2F,semrush,SEMRUSH,Safe,2.8934438228607178
+https://phys.org/,phys,PHYS ORG,Safe,2.8889122009277344
+https://customer.sg.wiley.com/CGI-BIN/lansaweb?procfun+shopcart+shcfn12+funcparms+parmurl(l0210):http://www.wiley.com+HSOURCE(a0010):,wiley,WILEY,Safe,2.7648205757141113
+https://www.overleaf.com/register,overleaf,Gverleaf,Safe,2.686070442199707
+https://login.mdpi.com/login?_target_path=https%3A%2F%2Fwww.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue,mdpi,MDPI,Safe,2.8848395347595215
+https://arxiv.org/login,arxiv,ar iv,Safe,2.837428331375122
+https://orcid.org/signin,orcid,RcID,Safe,4.694305896759033
+https://www.semanticscholar.org/,semanticscholar,SEMANTIC SCHOLAR froo N_noworodroccarck to lfor cciontific litoroturo,Safe,3.599001169204712
+https://serverfault.com/users/login?ssrc=head&returnurl=https%3a%2f%2fserverfault.com%2f,serverfault,N/A,Phish,1.9850711822509766
+https://fanfox.net/login/?from=%2f,fanfox,Imangafox,Phish,2.778937339782715
+https://www.leo.org/german-english,leo,N/A,Phish,2.0295684337615967
+https://www.linkedin.com/learning-login/?redirect=%2Flearning%2F%3FupsellOrderOrigin%3Dlynda_redirect_learning&upsellOrderOrigin=lynda_redirect_learning&fromSignIn=true&trk=homepage-learning_nav-header-signin,linkedin,N/A,Phish,1.9980981349945068
+https://tutsplus.com/sign_in?redirect_to=https%3A%2F%2Ftutsplus.com%2F,tutsplus,envatotutst,Safe,2.660916328430176
+https://member.webmd.com/signin,webmd,WebMD,Safe,2.715632438659668
+https://access.login.nhs.uk/no-client-info,login,NHHS],Phish,2.774937629699707
+https://member.webmd.com/signin,webmd,WebMD,Safe,2.7776317596435547
+https://www.doctolib.fr/sessions/new?context=navigation_bar,doctolib,Doctolib,Safe,3.313343048095703
+https://secure.aarp.org/applications/user/login?response_type=code&client_id=0oa3rtsa6ahTQReOG2p7&redirect_uri=https://www.aarp.org/aarp/auth/callback&scope=bui+bmi+openid&state=https://www.aarp.org/,aarp,AARP,Safe,2.6950323581695557
+https://healthy.kaiserpermanente.org/secure/inner-door,kaiserpermanente,N/A,Phish,1.997102975845337
+https://www.drugs.com/account/login/,drugs,Drugscom Know more. Besure:,Safe,3.0084872245788574
+https://www.healthcare.gov/login,healthcare,N/A,Phish,3.7116148471832275
+https://genius.com/login,genius,Sign In,Phish,2.5777084827423096
+https://www.netflix.com/in/,netflix,tA English Sign In MERo; 3 NETFLIX,Safe,3.7171645164489746
+https://www.hotstar.com/in/home?ref=%2Fin,hotstar,JioHotstar; WINZO,Safe,3.6533665657043457
+https://store.crunchyroll.com.au/login,crunchyroll,Crunchyroll store,Safe,2.7087273597717285
+https://www.gamespot.com/login-signup/,gamespot,N/A,Phish,1.9950780868530273
+https://www.deviantart.com/users/login,deviantart,DEVIANT ArT,Safe,11.547149896621704
+https://gamerant.com/,gamerant,GAMERANT,Safe,5.104514122009277
+https://www.justwatch.com/,justwatch,JustWatch,Safe,4.57804012298584
+https://tunein.com/,tunein,N/A,Phish,2.041170120239258
+https://x.com/,x,Happening now,Safe,3.6708576679229736
+https://www.typepad.com/secure/services/signin?to=%2Fdashboard%2F,typepad,Typepad,Safe,3.332692861557007
+https://www.kwai.com/foryou,kwai,N/A,Phish,2.0830743312835693
+https://serverfault.com/users/login?ssrc=head&returnurl=https%3a%2f%2fserverfault.com%2f,serverfault,N/A,Phish,2.045084238052368
+https://login.yahoo.com/?.lang=en-US&src=homepage&.done=https%3A%2F%2Fwww.yahoo.com%2F&pspid=2023538075&activity=ybar-signin,yahoo,yahoo?; yahoo,Safe,3.4157745838165283
+https://www.dailymail.co.uk/registration/login.html?reg_source=navigation&targetUrl=https://www.dailymail.co.uk/home/index.html,dailymail,N/A,Phish,2.051088571548462
+https://accounts.hindustantimes.com/?type=plain&ref=ht&funnel_entry=top_header&cta=top_header&is_premium=false,hindustantimes,Hlinaustan @imes,Safe,2.962533950805664
+https://edition.cnn.com/account/log-in,cnn,@N,Phish,3.0057144165039062
+https://www.thehindu.com/,thehindu,THE HINDU,Safe,4.284427881240845
+https://kanaknews.com/reader/login,kanaknews,KANAK NWS,Safe,3.109764575958252
+https://www.bhaskar.com/account/login?redirectURI=https%3A%2F%2Fwww.bhaskar.com%2F,bhaskar,N/A,Phish,1.9801671504974365
+https://auth.newslaundry.com/user-login?callback-url=https%3A%2F%2Fwww.newslaundry.com&redirect-url=https%3A%2F%2Fwww.newslaundry.com%2Ftopic%2Findia-ahead,newslaundry,N/A,Phish,2.0041701793670654
+https://navbharattimes.indiatimes.com/,indiatimes,NBu Td!RT Z154H By THE TIMES OF INDIA; THRT Z154 By THE TIMES OF INDIA,Phish,12.84571385383606
+https://auth.indiatoday.in/user/login?ReturnTo=https%3A%2F%2Fauth.indiatoday.in%2Fsimplesaml%2Fmodule.php%2Fsso%2Fresume.php%3FState%3D_d91b52281640e3c7aeb9e4ec12bf7c7ff923ca8f21,indiatoday,INDIA TODAY GROUP,Safe,3.323976755142212
+https://scroll.in/signin,scroll,CfcrolLin,Phish,10.005976915359497
+https://www.thequint.com/subscribe,thequint,the quint,Safe,9.193589210510254
+https://indianexpress.com/login/,indianexpress,The IndianEXPRESS,Safe,2.9241302013397217
+https://login.usatoday.com/USAT-GUP/authenticate/?success-url=https%3A%2F%2Fwww.usatoday.com%2F&cancel-url=https%3A%2F%2Fwww.usatoday.com%2F&from-state=returning-user-get-redirect&cookies=,usatoday,Y88AY,Phish,8.583765268325806
+https://www.ndtv.com/,ndtv,Stocks volatile? FD is steadyl,Phish,3.3260860443115234
+https://www.independent.co.uk/login?regSourceMethod=login%20overlay,independent,INDEPENDENT,Phish,3.9948618412017822
+https://www.mercari.com/,mercari,MERCARi,Safe,4.73778772354126
+https://www.parentsquare.com/,parentsquare,ParentSquare,Safe,3.205385446548462"https://wordpress.com/log-in/,wordpress,N/A,Phish,2.218615770339966",wordpress,N/A,Phish,2.234114170074463
+https://wordpress.com/,wordpress,WordPress.com,Safe,2.9178295135498047
+https://www.forbes.com/,forbes,Forbes,Safe,4.262350797653198
+https://www.indiatimes.com/login,indiatimes,MUTUAL FUNDS Sahl 'Hal,Phish,3.412386178970337
+https://apnews.com/login,apnews,N/A,Phish,2.3997490406036377
+https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&componentEventParams=componentType%3Didentityauthentication%26componentId%3Dguardian_signin_header,theguardian,GuHaian; Sign in,Phish,3.497819662094116
+https://my.foxnews.com/,foxnews,FOX NEWSI channe; OX NEWS ehan nei,Safe,3.203111410140991
+https://nypost.com/,nypost,NEW YORK POST,Safe,3.2738640308380127
+https://www.newsweek.com/,newsweek,Newsweek,Safe,2.8117573261260986
+https://www.hindustantimes.com/,hindustantimes,Hlindustan @imes,Safe,3.3145599365234375
+https://www.thesun.co.uk/,thesun,Sun,Phish,2.99456524848938
+https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=3975302&q=site:https%3A%2F%2Fwww.latimes.com%2Fworld%2Frss2.0.xml,feedspot,VA( Gumes,Phish,2.853243827819824
+https://www.thestar.com/users/login/?referer_url=https%3A%2F%2Fwww.thestar.com%2F,thestar,TORONTO STAR; STAR,Safe,2.9771041870117188
+https://www.latimes.com/,latimes,N/A,Phish,2.1959142684936523
+https://www.smh.com.au/,smh,N/A,Phish,2.303105115890503
+https://www.cbc.ca/account/login?returnto=https://www.cbc.ca/news&referrer=https://www.cbc.ca/news,cbc,N/A,Phish,2.273810863494873
+https://time.com/newsletters/,time,TIME,Safe,3.004647731781006
+https://www.reuters.com/account/sign-in/?redirect=https%3A%2F%2Fwww.reuters.com%2F,reuters,Reuters,Safe,3.6439270973205566
+https://www.aljazeera.com/account/sign-up,aljazeera,ALJAZEERA,Safe,3.3799242973327637
+https://profile.thedailystar.net/login?redirect_to=https://epaper.thedailystar.net/Home/ArticleView,thedailystar,@he Dailg Star,Safe,3.3953702449798584
+https://member.bangkokpost.com/login,bangkokpost,@Bangkok AJost,Safe,2.984276294708252
+https://www.thejakartapost.com/user/account/login,thejakartapost,TheJakartaPost _,Safe,3.5906925201416016
+https://www.japantimes.co.jp/,japantimes,N/A,Phish,2.374253988265991
+https://new-subscription.chinadaily.com.cn/views/login/index.html?redirect=https%253A%252F%252Fnew-subscription.chinadaily.com.cn%252Fviews%252Fhome%252Findex.html,chinadaily,N/A,Phish,2.2040727138519287
+https://secure.telegraph.co.uk/customer/secure/login/?redirectTo=https%3A%2F%2Fwww.telegraph.co.uk%2F,telegraph,Cljc Zclcgrapl,Phish,4.7909996509552
+https://www.mirror.co.uk/,mirror,N/A,Phish,2.0804367065429688
+https://www.cbssports.com/login?redirectUrl=https%3A%2F%2Fwww.cbssports.com%2F,cbssports,OCBS SPORTS,Phish,7.69207501411438
+https://www.mirror.co.uk/,mirror,Mirror,Safe,3.967470407485962
+https://www.bloomberg.com/asia,bloomberg,Bloomberg,Safe,3.599000930786133
+https://accounts.theatlantic.com/login/?redirect=https%3A%2F%2Fwww.theatlantic.com%2F,theatlantic,The Atlantic,Safe,3.323805809020996
+https://www.thedailybeast.com/,thedailybeast,DAILY BEAST; DAlLY BEAST,Safe,3.3590633869171143
+https://www.cbssports.com/login?redirectUrl=https%3A%2F%2Fwww.cbssports.com%2F,cbssports,OCBS SPORTS,Safe,4.78335428237915
+https://www.axios.com/,axios,AXIOS,Safe,2.9615931510925293
+https://abplive.in/,abplive,abp LIVE,Safe,3.861915111541748
+https://ai.shareba.com/welcome/?last_url=http://ai.shareba.com%2Fblogs%2F,shareba,ERAw; ShareBa,Phish,3.8583900928497314
+https://www.lanacion.com.ar/,lanacion,LN movilidad,Safe,4.342753648757935
+https://smotrim.ru/brand/58500,smotrim,N/A,Phish,2.2634847164154053
+https://www.vesti.ru/,vesti,GMOIpVM,Phish,5.368999719619751
+https://www.heise.de/sso/login/?forward=https%3A%2F%2Fwww.heise.de%2F,heise,N/A,Phish,2.3207497596740723
+https://www.foxsports.com/,foxsports,FOX sports,Safe,2.957033634185791
+https://www.chosun.com/subscribe/signin/,chosun,Q#B#,Phish,3.107058048248291
+https://www.skysports.com/,skysports,sports; sky sports,Safe,4.601655721664429
+https://qingdaonews.com/,qingdaonews,FSJ6Um qingdaonews.com,Safe,6.141770362854004
+https://www.dailymotion.com/in,dailymotion,N/A,Phish,2.216278314590454
+https://arstechnica.com/,arstechnica,N/A,Phish,2.223073959350586
+https://fortune.com/,fortune,FORTUNE,Safe,5.1645073890686035
+https://www.salon.com/,salon,salon-,Safe,3.1766421794891357
+https://qz.com/login,qz,QUARTZ,Safe,2.8779959678649902
+https://www.oneindia.com/,oneindia,Oneindiw,Safe,5.330277681350708
+https://www.ddanzi.com/index.php?mid=member&act=dispMemberLoginForm,ddanzi,N/A,Phish,2.0605762004852295
+https://www.nate.com/,nate,nate,Safe,2.7328879833221436
+https://www.inc.com/,inc,N/A,Phish,2.036565065383911
+https://accounts.ft.com/login?location=https%3A%2F%2Fwww.ft.com,ft,N/A,Phish,2.052718162536621
+https://1login.wp.pl/zaloguj/dodaj?client_id=o2-backend&login_challenge=Cj4KJDEzOTExZDMxM2M1YjY5ZTcxYTdkYzUwNTJjNDBlMWQwZWVkMBDB8o24BhoQCgpvMi1iYWNrZW5kEgJ2MhIgPH47NPFCa249YZ3_05VWJqaJHAULo7iVVf_i-XX1EnI,wp,W Glogin,Phish,2.7177352905273438
+https://www.ibtimes.co.uk/,ibtimes,INTERNATIONAL BUSINES,Phish,3.3874428272247314
+https://www.express.co.uk/,express,Sletertt- INTRAday TRADING,Phish,3.238609790802002
+https://account.abc.net.au/?next=https%3A%2F%2Fwww.abc.net.au%2F&source=PL%20CORE%20NEXT&cid=core,abc,N/A,Phish,2.7881040573120117
+https://login.virgilio.it/?ref=hpv-hd,virgilio,lintern@ute,Phish,2.963846206665039
+https://www.linternaute.com/account/login,linternaute,lintern@ute,Safe,2.8109359741210938
+https://auth.jagran.com/sso/auth,jagran,SIPRO Network ONE ACCOUNT ONE WORK,Phish,2.94757080078125
+https://myebank.icbc.com.cn/icbc/perbank/index.jsp?areaCode=0165,icbc,N/A,Phish,2.1184773445129395
+https://www1.bmo.com/banking/digital/login,bmo,BMO,Safe,2.787041187286377
+https://direct.credit-suisse.com/dn/c/cls/auth?language=en,credit-suisse,N/A,Phish,1.986839771270752
+https://myebankasia.icbc.com.cn/icbc/perbank/index.jsp?areaCode=0110,icbc,N/A,Phish,2.0560944080352783
+https://eb.hk.bankcomm.com/eb/index.jsp?locale=en_US,bankcomm,) @ oFe AkcAoN (S1) BANK OF COMMUNICATIONS (HONG Kong|,Safe,3.426708221435547
+https://www.hsbc.co.in/security/,hsbc,HSBC,Safe,2.706550121307373
+https://ibpersonal.cbzsecure.com/,cbzsecure,INDUSTRIAL BANK; Member FDIC,Phish,3.640328884124756
+https://www.mahaconnect.in/jsp/index.html,mahaconnect,ad 31745 HelrTG Bank of Maharashtra Tn Dfar nn 86,Phish,5.211339712142944
+https://ebanking-ch4.ubs.com/workbench/WorkbenchOpenAction.do?login&locale=en-US&dnc=7042720,ubs,UBS,Safe,2.5855445861816406
+https://login.morganstanleyclientserv.com/ux/,morganstanleyclientserv,N/A,Phish,1.9971809387207031
+https://bank.barclays.co.uk/olb/authlogin/loginAppContainer.do#/identification,barclays,'BARCLAYS,Safe,2.732872247695923
+https://authentication.td.com/uap-ui/?consumer=easyweb&locale=en_CA#/uap/login,td,N/A,Phish,2.06551456451416
+https://login2.fisglobal.com/idp/TrustDesk37/?themeName=37TDCB&client_id=TrustDesk_TDCB_Prod&scope=openid&response_type=id_token&redirect_uri=https://clientpoint.fisglobal.com/tdcb/main/Logon?bankNumber=37,fisglobal,Wealth,Phish,2.82346510887146
+https://corporateportal.unicreditgroup.eu/portal/at/login,unicreditgroup,UniCredit,Safe,2.632634401321411
+https://verified.capitalone.com/auth/signin,capitalone,N/A,Phish,1.9721121788024902
+https://banking.rabobank.com/business/,rabobank,Login; Rabobank,Safe,3.135202407836914
+https://www.truist.com/,truist,TRUIST HH,Safe,2.6084306240081787
+https://www.pnc.com/en/about-pnc.html,pnc,PNC,Safe,2.909707546234131
+https://www.my.commbank.com.au/netbank/Logon/Logon.aspx?ei=mv_logon-NB,commbank,Commonwealth Bank,Safe,3.1492960453033447
+https://netbanking.kotak.com/knb2/,kotak,kotak Kotak Mahindra Bank,Safe,3.232150077819824
+https://secure.icicidirect.com/customer/login?_gl=1*1l1q7be*_gcl_au*MzIyOTU2MjMwLjE3MjgxMjMwNDY.,icicidirect,N/A,Phish,1.9355220794677734
+https://www.mql5.com/en/auth_login,mql5,MS,Phish,3.1575350761413574
+https://www.myfxbook.com/login?reg=true&regFrom=top&loginFrom=/landingPage,myfxbook,myfxbook,Safe,3.2466366291046143
+https://www.justetf.com/en/login.html,justetf,@USERCENTRICS Cookiebot; justETF,Safe,3.8825571537017822
+https://app.trading212.com/,trading212,TRADING 212 Build wealth every day,Safe,2.8940086364746094
+https://statusinvest.com.br/cadastrar,statusinvest,SVESS,Phish,3.486006259918213
+https://login.5paisa.com/,5paisa,N/A,Phish,2.1218957901000977
+https://login.angelbroking.com/sb?redirect=https%3A%2F%2Fweb.sensibull.com%2Fvalidate_angel_broking_login%3Frequest_token%3D&ApplicationName=sensibull&OS=Windows&AppID=2dda9ba2-bbb1-41b1-89ab-186e2c9691e3,angelbroking,PNC,Phish,2.945780038833618
+https://www.pnc.com/en/about-pnc.html,pnc,PNC,Safe,4.435231447219849
+https://www.my.commbank.com.au/netbank/Logon/Logon.aspx?ei=mv_logon-NB,commbank,Commonwealth Bank,Safe,3.0225625038146973
+https://netbanking.kotak.com/knb2/,kotak,kotak Kotak Mahindra Bank,Safe,3.200589418411255
+https://secure.icicidirect.com/customer/login?_gl=1*1l1q7be*_gcl_au*MzIyOTU2MjMwLjE3MjgxMjMwNDY.,icicidirect,N/A,Phish,2.9212098121643066
+https://www.mql5.com/en/auth_login,mql5,MS,Phish,2.7450554370880127
+https://www.myfxbook.com/login?reg=true&regFrom=top&loginFrom=/landingPage,myfxbook,myfxbook,Safe,2.9562203884124756
+https://www.justetf.com/en/login.html,justetf,@USERCENTRICS Cookiebot; justETF,Safe,4.115591287612915
+https://app.trading212.com/,trading212,TRADING 212 Build wealth every day,Safe,2.8010830879211426
+https://statusinvest.com.br/cadastrar,statusinvest,SVESS,Phish,3.0430822372436523
+https://login.5paisa.com/,5paisa,N/A,Phish,2.1012940406799316
+https://login.angelbroking.com/sb?redirect=https%3A%2F%2Fweb.sensibull.com%2Fvalidate_angel_broking_login%3Frequest_token%3D&ApplicationName=sensibull&OS=Windows&AppID=2dda9ba2-bbb1-41b1-89ab-186e2c9691e3,angelbroking,N/A,Phish,2.2350711822509766
+https://www.pnc.com/en/personal-banking.html,pnc,PNC,Safe,2.682088613510132
+https://www.credit-agricole.fr/particulier/acces-cr.html?origin=/content/ca/national/npc/fr/particulier/acceder-a-mes-comptes.html,credit-agricole,ET CELUI DE LA SOCIETE,Safe,2.977689027786255
+https://www.klikbca.com/,klikbca,BCA,Phish,2.8426194190979004
+https://www.creditkarma.com/auth/logon,creditkarma,creditkarma,Safe,3.16205096244812
+https://www.glamly.com/?restart=1,glamly,"GLAMLY; Goneasor"" ONLL",Safe,3.320697784423828
+https://www.woodlandworldwide.com/,woodlandworldwide,TMELESS,Phish,3.5676255226135254
+"https://myasta.avadhutsathe.in/login#:~:text=To%20log%20in,%20you%20need%20to%20enable%20your%20browser%20to",avadhutsathe,AVADHUT SATHE IRADi G {C CEMC,Safe,2.92604398727417
+https://login.okta.com/#:~:text=Sign%20in%20or%20Create%20an%20account.%20Log%20into%20your%20Okta,okta,okta,Safe,3.085066795349121
+https://onecompiler.com/octave,onecompiler,OneCompiler,Safe,2.685853958129883
+https://shop.lakmesalon.in/?restart=1,lakmesalon,GET UP TO 5085 ON BESTSELLERS,Phish,8.211547136306763
+https://www.maccosmetics.in/,maccosmetics,N/A,Phish,2.1166300773620605
+https://mamaearth.in/,mamaearth,mamaearth,Safe,2.864276170730591
+https://www.in.pampers.com/?iss=https%3A%2F%2Faccounts.in.pampers.com%2F,pampers,Pampers,Safe,4.3861870765686035
+https://superuser.com/users/login?ssrc=head&returnurl=https%3a%2f%2fsuperuser.com%2fquestions%2f619332%2fis-there-a-default-password-of-kali-linux-os-after-first-installation,superuser,N/A,Phish,2.0760974884033203
+https://www.meesho.com/auth?redirect=https%3A%2F%2Fwww.meesho.com%2F&source=profile&entry=header&screen=HP,meesho,meesho,Safe,2.707648515701294
+https://stockx.com/,stockx,Stockx,Safe,3.8074188232421875
+https://www.nordstrom.com/signin?cm_sp=SI_SP_A-_-SI_SP_B-_-SI_SP_C&origin=tab&ReturnURL=,nordstrom,NORDSTROM,Safe,3.508728265762329
+https://www.jcpenney.com/,jcpenney,JCPenney,Safe,3.3286283016204834
+https://shop.mango.com/in/en/login,mango,MANGO,Safe,4.6898887157440186
+https://pizzaonline.dominos.co.in/postorder-ui/login?redirectUrl=landing,dominos,Dominos,Safe,7.434343576431274
+https://www.bbcgoodfood.com/login?redirectTo=https%3A%2F%2Fwww.bbcgoodfood.com%2F,bbcgoodfood,goodFooD,Safe,4.652222633361816
+https://www.instacart.com/,instacart, instacart,Safe,2.8855550289154053
+https://www.tudogostoso.com.br/login,tudogostoso,ZLube TUDEGOSTOSO,Phish,7.646813154220581
+https://www.thekitchn.com/sign-in?redirect_uri=/,thekitchn,thekitchn,Safe,12.271177291870117
+https://www.twitch.tv/,twitch,N/A,Phish,2.466006278991699
+https://discord.com/login,discord,N/A,Phish,2.224032163619995
+https://www.usaa.com/my/logon?logoffjump=true&wa_ref=pub_global_log_on&akredirect=true,usaa,USAA?,Safe,3.5056684017181396
+https://www.policybazaar.com/,policybazaar,policybazaarc HAR FAMILY HOGI INSURED com,Safe,2.859224796295166
+https://my.cigna.com/web/public/guest,cigna,cigna healthcare,Safe,2.9466514587402344
+https://www.allstate.com/,allstate,Allstate,Safe,3.3886656761169434
+https://ecams.geico.com/login,geico,N/A,Phish,1.9911375045776367
+https://www.barnesandnoble.com/,barnesandnoble,Prariol,Phish,2.8171920776367188
+https://pbsdistribution.org/shop-pbs-2/?utm_source=PBS&utm_medium=Link&utm_campaign=pbs_home_shopbuttontopnav,pbsdistribution,Choose station; PBS PBS Shows,Phish,3.6796112060546875
+https://secure.dhgate.com/usr/signin.do?returnURL=https://dg.dhgate.com/mydhgate/index.html,dhgate,N/A,Phish,2.146090507507324
+https://www.ceneo.pl/,ceneo,CENEO,Safe,2.8556711673736572
+https://zozo.jp/_member/login.html?bkurl=https%3A%2F%2Fzozo.jp%2F,zozo,ZOZOTOWN; +pGa,Safe,2.9664955139160156
+https://my.gumtree.com/login,gumtree,N/A,Phish,1.9955289363861084
+https://ecnavi.jp/login/,ecnavi,ECJE,Phish,2.7351183891296387
+https://www.evite.com/,evite,evite,Safe,3.4277164936065674
+https://www.samsclub.com/login?redirectURL=%2F&xid=hdr_account_login,samsclub,sams club,Safe,4.2411181926727295
+https://www.gamestop.com/,gamestop,GameStop,Safe,2.803131580352783
+https://www.qvc.com/,qvc,QVC,Safe,4.145644187927246
+https://omni.axisbank.co.in/axisretailbanking/,axisbank,openi INTERNET BANKING; Skip to Main Content; TCOL oFnin Dan Internet Banking,Safe,5.1673901081085205
+https://www.caixabank.cat/particular/home/particulars_ca.html,caixabank,CaixaBank,Safe,3.0005860328674316
